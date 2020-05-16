@@ -21,5 +21,5 @@ def validate_user(username, minlen):
     return True
 
 
-f = validate_user('mike', 2)
+f = validate_user('John', 2)
 print(f)
